@@ -2,7 +2,7 @@
 ## boxin.ino for boxin
 ## 
 ## Made by elominp
-## Login   <pirou_g@epitech.net>
+## Login   <pirou_g@epitech.eu>
 ## 
 ## Started on  Tue Jun  2 17:32:55 2015 elominp
 ## Last update Tue Jun  2 17:33:09 2015 elominp
